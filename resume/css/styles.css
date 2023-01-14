@@ -11329,6 +11329,15 @@ p.lead {
   font-weight: 500;
   font-size: 1.5rem;
 }
+.content-link{
+    text-decoration: none;
+    color: #6c757d;
+}
+
+.content-link-head{
+    text-decoration: none;
+    color: #343a40;
+}
 
 #sideNav {
   padding-left: 1rem;
