@@ -2,12 +2,12 @@
 
 My personal web site
 
-[Resume](https://supawat.github.io/resume/index.html)
+<a href="https://supawat.github.io/resume/index.html" target="_blank">Resume</a>
 
-Thesis
+My Master's Thesis
 
-[Fault-Tolerant Dynamic Web Using Cache](https://supawat.github.io/thesis/mee0252.pdf)
+<a href="https://supawat.github.io/thesis/mee0252.pdf" target="_blank">Fault-Tolerant Dynamic Web Using Cache</a>
 
-or download my thesis at 
+or download my Thesis at 
 
-https://dric.nrct.go.th/Search/SearchDetail/188762
+<a href="https://dric.nrct.go.th/Search/SearchDetail/188762" target="_blank">https://dric.nrct.go.th/Search/SearchDetail/188762</a>
